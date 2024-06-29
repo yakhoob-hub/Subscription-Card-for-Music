@@ -7,3 +7,7 @@ Responsive Design: Ensures the page adapts well to different screen sizes, from 
 Technologies Used
 HTML5: Markup for the structure of the subscription page.
 CSS3: Styling and layout, including Flexbox for responsive design.
+
+##View
+
+Click this link https://yakhoob-hub.github.io/Subscription-Card-for-Music/
